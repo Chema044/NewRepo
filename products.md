@@ -28,7 +28,7 @@ permalink: /products
 <br />
 <div class="alert alert-danger" role="alert">
     <button type="button" class="btn-close" data-dismiss="alert">
-        
+        Cierro
     </button>
     The server is currently down for maintenances.
 </div>
